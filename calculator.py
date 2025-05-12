@@ -31,7 +31,7 @@ def division():
 
 #firstly we need a main window
 window = tk.Tk() 
-window.geometry("300x200") #we set the size of the window
+window.geometry("400x300") #we set the size of the window
 window.title("calculator")#we set the title of the window for user to understand what it is
 
 
